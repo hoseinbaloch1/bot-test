@@ -1,5 +1,5 @@
 {
-  "name": "Aquabot-MD",
+  "name": "sata",
   "version": "1.0.0",
   "description": "aquabot happy for whatsapp.",
   "main": "/aquabot/bot.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://github.com/hoseinbaloch1/bot-test"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "hosein sarbazi",
+  "developer": "sata",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
+    "url": "https://github.com/hoseinbaloch1/bot-test/issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://github.com/hoseinbaloch1/bot-test",
   "dependencies": {
      "@adiwajshing/baileys": "^4.3.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
